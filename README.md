@@ -3,4 +3,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasbuenosdias=compact)](https://github.com/SrGobi/github-readme-stats)
+[![To[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasbuenosdias)](https://github.com/rliasbuenosdias/github-readme-stats)
